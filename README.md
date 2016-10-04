@@ -8,4 +8,4 @@ and adding some headers
 [link to google](https://www.google.com)
 [Link to yahoo][varlink]
 
-[varlink]:[https://www.yahoo.com]
+[varlink]:www.yahoo.com
